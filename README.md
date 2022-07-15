@@ -1,1 +1,2 @@
-# Data-Cleaning-in-SQL
+# Data Cleaning in SQL
+Il processo di Data Cleaning ricopre spesso il 90% del tempo dedicato ad un progetto, perché i dataset non si trovano bell'e pronti ma vanno puliti ed elaborati per renderli fruibili e poter estrarre valore e conoscenza da essi. SQL è uno strumento formidabile ed essenziale per questo lavoro, e qui sono andato ad usare tutte le operazioni che sono il pane quotidiano del lavoro con i dati.
